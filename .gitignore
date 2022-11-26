@@ -1,0 +1,7 @@
+#Directories
+data/*
+models/*
+.ipynb_checkpoints/*
+
+#Zip Files
+retailrocket-kaggle-data.zip
