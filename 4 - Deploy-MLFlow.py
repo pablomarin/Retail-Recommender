@@ -131,7 +131,8 @@ artifacts = {
 
 # Path where to save the MLFLow model
 mlflow_model_path = MLFLOW_MODELS_DIR + "recommendation.model"
-if shutil.shutil.rmtree(mlflow_model_path)
+if os.path.exists(mlflow_model_path):
+    shutil.shutil.rmtree(mlflow_model_path)
 
 # Use above defined Custom Model Wrapper
 mlflow.pyfunc.save_model(
