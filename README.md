@@ -23,8 +23,10 @@ The Retail Recommender Solution Offering unlocks data for clients to provide spe
 ```
 # enter your own user directory below
 cd /Users/pabmar/
+
 # clone repo
 git clone https://github.com/pablomarin/Retail-Recommender.git
+
 # change directory to retail recommender
 cd Retail-Recommender/
 ```
@@ -35,8 +37,9 @@ cd Retail-Recommender/
 * link powerpoint here
 
 # Azure and Analytics Platform
-The directions provided for this repository assume fundemental working knowledge of Azure Cosmos DB, Azure Machine Learning Service, Azure Kubernetes Service.
+The directions provided for this repository assume fundemental working knowledge of Azure Machine Learning Service and Azure Databricks MLFlow.
 
 For additional training and support, please see:
 1. Azure Machine Learning Services
+2. Azure Databricks MLFlow
 
