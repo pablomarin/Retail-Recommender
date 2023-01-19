@@ -20,11 +20,14 @@ The Retail Recommender Solution Offering unlocks data for clients to provide spe
 
 
 # The Benefits
-* Any Size Client: This accelerator opens the door for any size retailer to utilize more out of their data ecosystem 
-* Model Deployment Options: MLFlow or AML
-* Accessibility: Json and Docker container that can go anywhere 
-* Variety of Features: leverage features of transactions, items, and users as part of the training *and* scoring
-* API Connection: Recommender System in a docker image as API, for Retailers. 
+* In comparison with ![this MSFT accelerator](https://github.com/microsoft/Azure-Synapse-Retail-Recommender-Solution-Accelerator), our Retail Recommender Solution Offering is much simpler to setup. It doesn't require Synapse or Spark while at the same time can handle more than 95% of the retail cases
+* Uses not only the transaction log (Date, User_id, Item_id, Interaction), but can also use the Item master dataset and the user dataset in order to make quality predictions 
+* Leverages side features for training and for prediction. Can take in consideration side features for transactions , users and items.
+* Can perform item similarity / basket analysis for upsell and cross sell
+* Produces as output an API on a docker image. That can be place in any cloud provider or on-premises
+* Contains deployment via Azure ML Services in:  Azure Container Instance (Test), and Azure Kubernetes Service (Production)}
+* Also contains deployment for Azure Databricks MLFlow model serving
+* API Features:  Top K recommendations, include or exclude set of items from the recommendation,  uses side features at prediction time, specify specific features at inference time,  allows querying similar items.
 
 # Getting Started and Process Overview 
 1. Create a compute instance within your Azure Machine Learning workspace (can use Standard DS11_v2)
