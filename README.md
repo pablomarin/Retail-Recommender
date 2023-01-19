@@ -5,9 +5,19 @@
 The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more.
 
 # Prerequisites
-* TBD: add in from email 
 * Azure subscription
 * Azure Machine Learning dedicated workspace
+* *Optional* Databricks workspace
+
+**Prerequisites Client 2 Day Workshop**
+* Microsoft members need to be added as Guests in clients Azure AD
+* A Resource Group (RG)  needs to be set for this Workshop POC, in the customer Azure tenant
+* The customer team and the Microsoft team must have Contributor permissions to this resource group
+* A storage account must be set in place in the RG
+* Datasets must be uploaded as CSV or Parquet files to the blob storage account, at least one week prior to the workshop date
+* Azure Machine Learning Workspace must be deployed in the RG
+* Optional but recommended – Databricks Workspace deployed in the RG
+
 
 # The Benefits
 * Any Size Client: This accelerator opens the door for any size retailer to utilize more out of their data ecosystem 
