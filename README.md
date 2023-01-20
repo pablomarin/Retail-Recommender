@@ -2,11 +2,11 @@
 
 
 # Retail Recommender Solution Offering
-The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more.
+The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more. This offering can be implemented as a POC in the clients environment with their own data in a 2 day workshop. For more information on the 2 day workshop, click the powerpoint presentation below:
 
 ![Link to Introductory Solution Workshop Deck](https://github.com/pablomarin/Retail-Recommender/blob/main/Recomender-Presentation%20-%20Pitch%20Deck.pptx)
 
-Click "view raw" to view powerpoint presentation
+**Click "*view raw*" to view powerpoint presentation**
 
 # Prerequisites
 * Azure subscription
