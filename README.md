@@ -4,6 +4,8 @@
 # Retail Recommender Solution Offering
 The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more.
 
+![Link to Introductory Solution Workshop Deck](https://microsoft-my.sharepoint.com/:p:/p/jheseltine/EaoNnJooT59Ehr8jnagJkgQBo3NTZnB4CnZLcQDCwKsAPA?e=Y281Vj)
+
 # Prerequisites
 * Azure subscription
 * Azure Machine Learning dedicated workspace
