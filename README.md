@@ -64,6 +64,6 @@ cd Retail-Recommender/
 The directions provided for this repository assume fundemental working knowledge of Azure Machine Learning Service and Azure Databricks MLFlow.
 
 For additional training and support, please see:
-1. Azure Machine Learning Services
-2. Azure Databricks MLFlow
+1. ![Azure Machine Learning Services](https://azure.microsoft.com/en-us/services/machine-learning/)
+2. ![Azure Databricks Services](https://azure.microsoft.com/en-us/products/databricks/)
 
