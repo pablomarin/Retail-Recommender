@@ -67,3 +67,5 @@ For additional training and support, please see:
 1. [Azure Machine Learning Services](https://azure.microsoft.com/en-us/services/machine-learning/)
 2. [Azure Databricks Services](https://azure.microsoft.com/en-us/products/databricks/)
 
+Download the Introductory Presentation here:
+[Recomender-Presentation - Pitch Deck.pptx](https://github.com/pablomarin/Retail-Recommender/files/10482679/Recomender-Presentation.-.Pitch.Deck.pptx)
