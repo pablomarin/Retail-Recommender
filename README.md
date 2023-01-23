@@ -65,5 +65,4 @@ The directions provided for this repository assume fundemental working knowledge
 
 For additional training and support, please see:
 1. ![Azure Machine Learning Services](https://azure.microsoft.com/en-us/services/machine-learning/)
-2. ![Azure Databricks Services](https://azure.microsoft.com/en-us/products/databricks/)
 
