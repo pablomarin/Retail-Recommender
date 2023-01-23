@@ -4,7 +4,7 @@
 # Retail Recommender Solution Offering
 The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more. This offering can be implemented as a POC in the clients environment with their own data in a 2 day workshop. The goal of the MVP workshop is to show/prove the value of a Recommender System built with the Azure Retail Recommender team, with your own data in your own environment. For more information on the 2 day workshop, click the powerpoint presentation below:
 
-![Link to Introductory Solution Workshop Deck](https://github.com/pablomarin/Retail-Recommender/blob/main/Recomender-Presentation%20-%20Pitch%20Deck.pptx)
+[Link to Introductory Solution Workshop Deck](https://github.com/pablomarin/Retail-Recommender/blob/main/Recomender-Presentation%20-%20Pitch%20Deck.pptx)
 
 **Click "*view raw*" to view powerpoint presentation**
 
@@ -24,7 +24,7 @@ The Retail Recommender Solution Offering unlocks data for clients to provide spe
 
 
 # The Benefits
-* In comparison with ![this MSFT accelerator](https://github.com/microsoft/Azure-Synapse-Retail-Recommender-Solution-Accelerator), our Retail Recommender Solution Offering is much simpler to setup. It doesn't require Synapse or Spark while at the same time can handle more than 95% of the retail cases
+* In comparison with [this MSFT accelerator](https://github.com/microsoft/Azure-Synapse-Retail-Recommender-Solution-Accelerator), our Retail Recommender Solution Offering is much simpler to setup. It doesn't require Synapse or Spark while at the same time can handle more than 95% of the retail cases
 * Uses not only the transaction log (Date, User_id, Item_id, Interaction), but can also use the Item master dataset and the user dataset in order to make quality predictions 
 * Leverages side features for training and for prediction. Can take in consideration side features for transactions , users and items.
 * Can perform item similarity / basket analysis for upsell and cross sell
@@ -65,4 +65,5 @@ The directions provided for this repository assume fundemental working knowledge
 
 For additional training and support, please see:
 1. [Azure Machine Learning Services](https://azure.microsoft.com/en-us/services/machine-learning/)
+2. [Azure Databricks Services](https://azure.microsoft.com/en-us/products/databricks/)
 
