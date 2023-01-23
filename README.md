@@ -47,7 +47,17 @@ git clone https://github.com/pablomarin/Retail-Recommender.git
 # change directory to retail recommender
 cd Retail-Recommender/
 ```
-4. 
+4. Once the repo is cloned, in your JupyterLab, navigate to the Retail Recommender Folder and open Notebook 0, the Data Download Notebook
+5. Follow each notebooks 0-4 to complete the entire solution 
+
+### Additional Steps for Data Download Notebook
+1. Open Notebook 0 within your JupyterLab
+2. Click on the Retail Rocket Dataset from the kaggle link (example dataset)
+3. Download the dataset
+4. Rename the file to "retailrocket-kaggle-data.zip"
+5. Upload the file into your JupyterLab 
+6. Run the cell of code in Notebook 0
+7. You should now have a new folder created called "data" with the files unzipped
 
 
 # Azure and Analytics Platform
