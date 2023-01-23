@@ -51,7 +51,7 @@ cd Retail-Recommender/
 
 # From repo to POC with your Client in 2 Days
 * Add in workshop details
-* link powerpoint here
+* ![Link to Introductory Solution Workshop Deck](https://github.com/pablomarin/Retail-Recommender/blob/main/Recomender-Presentation%20-%20Pitch%20Deck.pptx)
 
 # Azure and Analytics Platform
 The directions provided for this repository assume fundemental working knowledge of Azure Machine Learning Service and Azure Databricks MLFlow.
