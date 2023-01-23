@@ -2,7 +2,7 @@
 
 
 # Retail Recommender Solution Offering
-The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more. This offering can be implemented as a POC in the clients environment with their own data in a 2 day workshop. For more information on the 2 day workshop, click the powerpoint presentation below:
+The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more. This offering can be implemented as a POC in the clients environment with their own data in a 2 day workshop. The goal of the MVP workshop is to show/prove the value of a Recommender System built with the Azure Retail Recommender team, with your own data in your own environment. For more information on the 2 day workshop, click the powerpoint presentation below:
 
 ![Link to Introductory Solution Workshop Deck](https://github.com/pablomarin/Retail-Recommender/blob/main/Recomender-Presentation%20-%20Pitch%20Deck.pptx)
 
@@ -49,9 +49,6 @@ cd Retail-Recommender/
 ```
 4. 
 
-# From repo to POC with your Client in 2 Days
-* Add in workshop details
-* ![Link to Introductory Solution Workshop Deck](https://github.com/pablomarin/Retail-Recommender/blob/main/Recomender-Presentation%20-%20Pitch%20Deck.pptx)
 
 # Azure and Analytics Platform
 The directions provided for this repository assume fundemental working knowledge of Azure Machine Learning Service and Azure Databricks MLFlow.
