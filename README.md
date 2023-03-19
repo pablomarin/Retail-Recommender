@@ -1,14 +1,14 @@
-![image](https://user-images.githubusercontent.com/113465005/213256471-04917667-69ab-4126-8cc6-72bc940f0fe0.png)
+![image](https://user-images.githubusercontent.com/113465005/226203757-b4004076-a704-4409-9bc5-0095d481bcf6.png)
 
 
-# Retail Recommender Solution Offering
+# The Accelerator powered by Azure OpenAI
 The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more. This offering can be implemented as a POC in the clients environment with their own data in a 2 day workshop. The goal of the MVP workshop is to show/prove the value of a Recommender System built with the Azure Retail Recommender team, with your own data in your own environment. For more information on the 2 day workshop, click the powerpoint presentation below:
 
 [Link to Introductory Solution Workshop Deck](https://github.com/pablomarin/Retail-Recommender/blob/main/Recomender-Presentation%20-%20Pitch%20Deck.pptx)
 
 **Click "*view raw*" to view powerpoint presentation**
 
-# Prerequisites
+# The Prerequisites
 * Azure subscription
 * Azure Machine Learning dedicated workspace
 * *Optional* Databricks workspace
